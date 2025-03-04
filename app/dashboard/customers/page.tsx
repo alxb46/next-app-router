@@ -1,4 +1,4 @@
-export default function customerPage() {
+export default function Page() {
     return (
         <p>Customers Page </p>
     )
